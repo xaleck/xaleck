@@ -1,5 +1,5 @@
 <div id="header" align="center" objectFit="cover">
-  <img src="assets/bg.webp"/>
+  <img src="bg.webp"  width="20%"  />
 </div>
 <h1 align="center">Hi there, I'm <a href="https://github.com/xaleck">Alaman</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="40"/></h1>
